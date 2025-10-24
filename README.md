@@ -1,4 +1,4 @@
-# Deauther
+# Wi-Fi-Deauthentication-Tool
 
 ## Disclaimer ⚠️
 
